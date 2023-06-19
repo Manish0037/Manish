@@ -3,8 +3,8 @@
 <h3 align="center">A passionate Backend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-- 💬 Ask me about **Java and Mysql**
+ 💬 **currently I am working on Spring MVC and SpringBoot**
+- 💬 Ask me about **Java And DSA**
 
 - 📫 How to reach me **manishkumarbhu02@gmail.com**
 
